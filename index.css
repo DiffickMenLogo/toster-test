@@ -1,12 +1,12 @@
 @font-face {
   font-family: "Gotham Pro";
-  src: url(./assets/fonts/gothampro.ttf) format("truetype");
+  src: url(assets/fonts/gothampro.ttf) format("truetype");
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: "Gotham Pro";
-  src: url(./assets/fonts/gothampro_bold.ttf) format("truetype");
+  src: url(assets/fonts/gothampro_bold.ttf) format("truetype");
   font-style: normal;
   font-weight: 700;
 }
